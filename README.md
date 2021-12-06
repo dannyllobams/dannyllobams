@@ -19,7 +19,11 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dannyllobams&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-## Education
+<details>
+<summary>📄 Resume</summary>
+<br />
+
+## Education ##
 
 - 📖 **Computer Engineering**\
 📆 2012 - 2016\
@@ -66,3 +70,5 @@
 - 👨‍💻 **C# and Mobile Developer**\
 📆 2017 - maio/2017\
 📍 **CondoEase** - Goiânia/GO, Brazil
+
+</details>
