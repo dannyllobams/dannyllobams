@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A mobile and .net developer from Goiânia, Brazil.
+  A .net developer from Goiânia, Brazil.
 </p>
 
 <p align='center'>
