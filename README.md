@@ -13,13 +13,16 @@
   <a href="mailto:dannyllobams@gmail.com">
     <img src="https://img.shields.io/badge/-dannyllobams@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=" />
   </a>&nbsp;&nbsp;
-  <a href="https://wakatime.com/@7b1b8de6-1810-4268-97f8-8a16bc789571">
-    <img src="https://wakatime.com/badge/user/7b1b8de6-1810-4268-97f8-8a16bc789571.svg" alt="Total time coded since Dec 7 2021" />
-  </a>
 </p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dannyllobams&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+  <a href="https://wakatime.com/@7b1b8de6-1810-4268-97f8-8a16bc789571">
+    <img src="https://wakatime.com/badge/user/7b1b8de6-1810-4268-97f8-8a16bc789571.svg" alt="Total time coded since Dec 7 2021" />
+  </a>
 </p>
 
 <details>
